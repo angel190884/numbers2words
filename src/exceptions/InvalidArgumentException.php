@@ -1,5 +1,5 @@
 <?php
-namespace js\tools\numbers2words\exceptions;
+namespace js\tools\numbers2wordsmx\exceptions;
 
 use InvalidArgumentException as ParentException;
 

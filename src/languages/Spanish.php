@@ -1,7 +1,7 @@
 <?php
-namespace js\tools\numbers2words\languages;
+namespace js\tools\numbers2wordsmx\languages;
 
-use js\tools\numbers2words\Speller;
+use js\tools\numbers2wordsmx\Speller;
 
 final class Spanish extends Speller
 {

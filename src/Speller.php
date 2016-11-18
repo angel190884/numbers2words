@@ -1,5 +1,5 @@
 <?php
-namespace js\tools\numbers2words;
+namespace js\tools\numbers2wordsmx;
 
 /**
  * This class offers a number spelling in various languages.
