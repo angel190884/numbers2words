@@ -7,7 +7,7 @@ spl_autoload_register(
 	function ($className)
 	{
 		$ds = DIRECTORY_SEPARATOR;
-		$className = str_replace('js\\tools\\numbers2wordsMX', '', $className);
+		$className = str_replace('js\\tools\\numbers2wordsmx', '', $className);
 		$className = str_replace('\\', $ds, $className);
 		$className = trim($className, $ds);
 		
@@ -25,8 +25,8 @@ spl_autoload_register(
 );
 
 // common code:
-use \js\tools\numbers2wordsMX\Speller;
-use \js\tools\numbers2wordsMX\exceptions\InvalidArgumentException;
+use \js\tools\numbers2wordsmx\Speller;
+use \js\tools\numbers2wordsmx\exceptions\InvalidArgumentException;
 
 try
 {
