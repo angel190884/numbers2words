@@ -24,7 +24,7 @@ Report issues if you find any!
 
 Usage:
 ```php
-use js\tools\numbers2words\Speller;
+use js\tools\numbers2wordsmx\Speller;
 
 Speller::spellNumber(123, Speller::LANGUAGE_RU);
 // output: сто двадцать три
