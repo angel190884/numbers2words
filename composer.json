@@ -1,5 +1,5 @@
 {
-  "name": "jurchiks/numbers2words",
+  "name": "angeldanielperegrino/numbers2wordsMX",
   "description": "It spells numbers (and currencies)!",
   "keywords": [
     "numbers",
@@ -10,13 +10,13 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "jurchiks",
-      "email": "jurchiks101@gmail.com"
+      "name": "angeldanielperegrino basado en jurchiks",
+      "email": "angel190884@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "js\\tools\\numbers2words\\": "src/"
+      "js\\tools\\numbers2wordsMX\\": "src/"
     }
   }
 }
