@@ -1,4 +1,6 @@
 numbers2words (ADECUACION PARA MEXICO PESOS, EJEMPLO DOS MIL QUINIENTOS VEITE PESOS 87/100 M.N.)
+
+BASADO EN EL PAQUETE DE jurchiks/numbers2words
 =============
 This library is meant for general-purpose number spelling for use in, e.g. legal documents and bills.
 
