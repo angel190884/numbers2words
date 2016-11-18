@@ -1,5 +1,5 @@
 {
-  "name": "angeldanielperegrino/numbers2wordsMX",
+  "name": "angeldanielperegrino/numbers2wordsmx",
   "description": "It spells numbers (and currencies)!",
   "keywords": [
     "numbers",
@@ -16,7 +16,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "js\\tools\\numbers2wordsMX\\": "src/"
+      "js\\tools\\numbers2wordsmx\\": "src/"
     }
   }
 }
